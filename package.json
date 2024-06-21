@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Olga-klgd/OTUS_github/issues"
   },
-  "homepage": "https://github.com/Olga-klgd/OTUS_github#readme"
+  "homepage": "https://github.com/Olga-klgd/OTUS_github#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
