@@ -13,7 +13,7 @@ module.exports = {
   rules: {
     "max-len": ["error", { ignoreComments: true }],
     "object-curly-spacing": "off",
-    quotes: "off",
+    "quotes": "off",
     "quote-props": "off",
     "import/prefer-default-export": "off",
     "comma-dangle": "off",
